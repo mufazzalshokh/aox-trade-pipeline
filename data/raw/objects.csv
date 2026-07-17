@@ -1,0 +1,16 @@
+object_id,client_id,object_type,area,active_from,active_to,installed_capacity_mw,status
+OBJ_1001,CL_01,solar,LV,2026-01-01,,4.5,active
+OBJ_1002,CL_01,wind,LV,2026-01-01,,12.0,active
+OBJ_1005,CL_03,bess,,2026-01-10,,2.0,active
+OBJ_1006,CL_04,solar,LV,2026-01-01,,-1.5,active
+OBJ_1007,CL_02,wind,EE,2026-01-01,,8.0,active
+OBJ_1008,CL_05,consumer,LT,2026-01-01,,15.0,active
+OBJ_1009,CL_05,solar,LV,2026-02-01,,6.0,active
+OBJ_1010,CL_06,wind,EE,2026-01-01,,10.0,active
+OBJ_1011,CL_06,bess,LT,2026-03-01,,3.0,active
+OBJ_1012,CL_07,consumer,LV,2026-01-01,,20.0,active
+OBJ_1002,CL_01,wind,LV,2026-01-01,,12.0,active
+OBJ_1003,CL_02,consumer,EE,2025-07-01,2026-03-31,8.0,inactive
+OBJ_1004,,hydro,LT,2026-02-15,,3.2,active
+OBJ_1013,CL_08,solar,LV,2026-01-01,,9999.0,active
+OBJ_1014,CL_08,wind,EE,2026-04-01,,5.5,active

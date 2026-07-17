@@ -1,0 +1,43 @@
+object_id,timestamp,issue_type,detail
+1001,2026-04-01 00:00:00,missing_object_metadata,object_id absent from objects table (actuals)
+OBJ_1001,2026-04-02 12:00:00,negative_actual_invalid_type,negative actual_mwh for object_type='solar' (BESS exempt)
+OBJ_1003,2026-04-01 00:00:00,inactive_object,actuals: record for inactive object
+OBJ_1003,2026-04-01 00:00:00,inactive_object,forecasts: record for inactive object
+OBJ_1003,2026-04-01 00:15:00,inactive_object,actuals: record for inactive object
+OBJ_1003,2026-04-01 00:15:00,inactive_object,forecasts: record for inactive object
+OBJ_1003,2026-04-01 00:30:00,inactive_object,actuals: record for inactive object
+OBJ_1003,2026-04-01 00:30:00,inactive_object,forecasts: record for inactive object
+OBJ_1003,2026-04-01 00:45:00,inactive_object,actuals: record for inactive object
+OBJ_1003,2026-04-01 00:45:00,inactive_object,forecasts: record for inactive object
+OBJ_1003,2026-04-01 01:00:00,inactive_object,actuals: record for inactive object
+OBJ_1003,2026-04-01 01:00:00,inactive_object,forecasts: record for inactive object
+OBJ_1003,2026-04-01 01:15:00,inactive_object,actuals: record for inactive object
+OBJ_1003,2026-04-01 01:15:00,inactive_object,forecasts: record for inactive object
+OBJ_1003,2026-04-01 01:30:00,inactive_object,actuals: record for inactive object
+OBJ_1003,2026-04-01 01:30:00,inactive_object,forecasts: record for inactive object
+OBJ_1003,2026-04-01 01:45:00,inactive_object,actuals: record for inactive object
+OBJ_1003,2026-04-01 01:45:00,inactive_object,forecasts: record for inactive object
+OBJ_9999,2026-04-01 00:00:00,missing_object_metadata,object_id absent from objects table (actuals)
+OBJ_9999,2026-04-01 00:00:00,missing_object_metadata,object_id absent from objects table (forecasts)
+OBJ_9999,2026-04-01 00:15:00,missing_object_metadata,object_id absent from objects table (actuals)
+OBJ_9999,2026-04-01 00:15:00,missing_object_metadata,object_id absent from objects table (forecasts)
+OBJ_9999,2026-04-01 00:30:00,missing_object_metadata,object_id absent from objects table (actuals)
+OBJ_9999,2026-04-01 00:30:00,missing_object_metadata,object_id absent from objects table (forecasts)
+OBJ_9999,2026-04-01 00:45:00,missing_object_metadata,object_id absent from objects table (actuals)
+OBJ_9999,2026-04-01 00:45:00,missing_object_metadata,object_id absent from objects table (forecasts)
+OBJ_9999,2026-04-01 01:00:00,missing_object_metadata,object_id absent from objects table (actuals)
+OBJ_9999,2026-04-01 01:00:00,missing_object_metadata,object_id absent from objects table (forecasts)
+OBJ_9999,2026-04-01 01:15:00,missing_object_metadata,object_id absent from objects table (actuals)
+OBJ_9999,2026-04-01 01:15:00,missing_object_metadata,object_id absent from objects table (forecasts)
+OBJ_9999,2026-04-01 01:30:00,missing_object_metadata,object_id absent from objects table (actuals)
+OBJ_9999,2026-04-01 01:30:00,missing_object_metadata,object_id absent from objects table (forecasts)
+OBJ_9999,2026-04-01 01:45:00,missing_object_metadata,object_id absent from objects table (actuals)
+OBJ_9999,2026-04-01 01:45:00,missing_object_metadata,object_id absent from objects table (forecasts)
+OBJ_9999,2026-04-01 02:00:00,missing_object_metadata,object_id absent from objects table (actuals)
+OBJ_9999,2026-04-01 02:00:00,missing_object_metadata,object_id absent from objects table (forecasts)
+OBJ_9999,2026-04-01 02:15:00,missing_object_metadata,object_id absent from objects table (actuals)
+OBJ_9999,2026-04-01 02:15:00,missing_object_metadata,object_id absent from objects table (forecasts)
+OBJ_9999,2026-04-01 02:30:00,missing_object_metadata,object_id absent from objects table (actuals)
+OBJ_9999,2026-04-01 02:30:00,missing_object_metadata,object_id absent from objects table (forecasts)
+OBJ_9999,2026-04-01 02:45:00,missing_object_metadata,object_id absent from objects table (actuals)
+OBJ_9999,2026-04-01 02:45:00,missing_object_metadata,object_id absent from objects table (forecasts)
